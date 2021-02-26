@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Abhijit313001/React-js-1.git/static/css/main.b1621c72.chunk.css",
+    "main.js": "/Abhijit313001/React-js-1.git/static/js/main.8aea7fcb.chunk.js",
+    "main.js.map": "/Abhijit313001/React-js-1.git/static/js/main.8aea7fcb.chunk.js.map",
+    "runtime-main.js": "/Abhijit313001/React-js-1.git/static/js/runtime-main.1a1cea02.js",
+    "runtime-main.js.map": "/Abhijit313001/React-js-1.git/static/js/runtime-main.1a1cea02.js.map",
+    "static/js/2.e78e2e8d.chunk.js": "/Abhijit313001/React-js-1.git/static/js/2.e78e2e8d.chunk.js",
+    "static/js/2.e78e2e8d.chunk.js.map": "/Abhijit313001/React-js-1.git/static/js/2.e78e2e8d.chunk.js.map",
+    "static/js/3.607680d3.chunk.js": "/Abhijit313001/React-js-1.git/static/js/3.607680d3.chunk.js",
+    "static/js/3.607680d3.chunk.js.map": "/Abhijit313001/React-js-1.git/static/js/3.607680d3.chunk.js.map",
+    "index.html": "/Abhijit313001/React-js-1.git/index.html",
+    "static/css/main.b1621c72.chunk.css.map": "/Abhijit313001/React-js-1.git/static/css/main.b1621c72.chunk.css.map",
+    "static/js/2.e78e2e8d.chunk.js.LICENSE.txt": "/Abhijit313001/React-js-1.git/static/js/2.e78e2e8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a1cea02.js",
+    "static/js/2.e78e2e8d.chunk.js",
+    "static/css/main.b1621c72.chunk.css",
+    "static/js/main.8aea7fcb.chunk.js"
+  ]
+}
